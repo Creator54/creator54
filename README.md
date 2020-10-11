@@ -6,7 +6,7 @@ I'm Creator54. A 21 years old noob dev/student from India.\
 I am also an open-source enthusiast and like to share some of my work on github.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![](https://komarev.com/ghpvc/?username=creator54&color=orange)
 <!--
 **Creator54/creator54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
