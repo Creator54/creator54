@@ -13,7 +13,7 @@ I am also an open-source enthusiast and like to share some of my work on github.
 &nbsp;
 
 <a href="https://github.com/creator54">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creator54&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creator54&theme=tokyonight" />
 </a>
 
 &nbsp;
