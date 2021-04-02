@@ -17,7 +17,8 @@ I am also an open-source enthusiast and like to share some of my work on github.
 </a>
 
 &nbsp;
-**Languages and Tools:**  
+
+**Tools i like/use:**  
 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/487568?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
