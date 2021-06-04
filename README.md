@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -6,13 +6,15 @@ I'm Creator54. A 21 years old noob dev/student from India.\
 I am also an open-source enthusiast and like to share some of my work on github.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a>
-  <img align="center" src="https://github-vjsreadme-stats-ltbdertew.vercel.app/api?username=creator54&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
-</a>
 
-&nbsp;
+## Metrics
+![Metrics](https://github.com/Creator54/creator54/blob/main/github-metrics.svg)
 
-**Tools i like/use:**  
+## Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=creator54&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)    
+
+
+## Tools i like/use:  
 <code>
 <a href="https://nixos.org">
          <img height="30" src="https://avatars.githubusercontent.com/u/487568?s=200&v=4"/>
