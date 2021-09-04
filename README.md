@@ -1,4 +1,4 @@
-![Metrics](https://github.com/Creator54/creator54/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Creator54/creator54/blob/dev/github-metrics.svg?)
 
 ## Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=creator54&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)    
