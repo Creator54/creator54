@@ -13,8 +13,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: creator54
           template: classic
+          user: creator54
+          repo: creator54
           base: repositories, metadata
           config_animations: yes
           config_timezone: India/Kolkata
@@ -35,3 +36,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
