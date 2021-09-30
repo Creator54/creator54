@@ -3,7 +3,7 @@ on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
-  push: {branches: ["dev"]}
+  push: {branches: ["main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
