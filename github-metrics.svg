@@ -1821,12 +1821,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Nix</span>
-                            <div class="bar" style="width: 62.82588878760255%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 62.892167990919404%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">79%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 17.17411121239745%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 17.10783200908059%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">21%</span>
                         </div>
                     </div>
@@ -2147,7 +2147,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/10/2021, 17:10  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 02/10/2021, 18:07  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
