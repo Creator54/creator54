@@ -1821,17 +1821,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 72.51258982065725%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
+                            <div class="bar" style="width: 72.32334428565773%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">90%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 4.445948366806664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.421044297533748%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Nix</span>
-                            <div class="bar" style="width: 3.0414618125360775%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.2556114168085193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                     </div>
@@ -2028,7 +2028,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.50376454483231 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.71594798083504 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2152,7 +2152,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2021, 23:13:02  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 2 Nov 2021, 00:25:22  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
