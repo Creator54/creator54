@@ -1819,6 +1819,26 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Shell</span>
+                            <div class="bar" style="width: 61.5646537272287%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">77%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">C</span>
+                            <div class="bar" style="width: 15.946801773274224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">20%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Nix</span>
+                            <div class="bar" style="width: 2.235964683530157%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Makefile</span>
+                            <div class="bar" style="width: 0.25257981596691875%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -2137,7 +2157,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2021, 06:19:30  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 14 Nov 2021, 07:13:01  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
