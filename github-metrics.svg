@@ -1942,27 +1942,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 38.922737900987435%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 38.85704689533566%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">49%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 33.45433747708042%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.397875645493095%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Roff Manpage</span>
-                            <div class="bar" style="width: 3.396639022995273%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.3909064192451406%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Nix</span>
-                            <div class="bar" style="width: 2.4270358470570423%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.5579579327427684%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Makefile</span>
-                            <div class="bar" style="width: 1.7992497518798256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.796213107183341%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -2323,7 +2323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2021, 01:53:00  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Nov 2021, 02:24:34  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
