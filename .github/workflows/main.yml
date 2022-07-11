@@ -19,7 +19,8 @@ jobs:
           config_animations: yes
           config_timezone: India/Kolkata
           plugin_followup: yes
-          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
+          plugin_followup_sections: user
             #plugin_stars: yes
             #plugin_stars_limit: 4
           plugin_languages: yes
@@ -29,9 +30,17 @@ jobs:
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_habits: yes
           plugin_habits_from: 250
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
